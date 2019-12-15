@@ -1,6 +1,6 @@
 # jormungandr_stakepool
 
-# Shelley Testnet command list on OSX
+# Shelley Testnet command list on OSX (DEPRECIATED)
 cliffc notes for noobs 
 >Nov. 27 2019 - These are my notes to load jormungandr. The code is changing daily so check the telegram group for updates.  References to other guides are below. Check out Chris Graffagnino's notes too. https://gist.github.com/Chris-Graffagnino/4d1be0b88dcaa93440a81dcafdc47afd#create-node-configyaml
 
